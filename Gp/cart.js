@@ -58,9 +58,9 @@ function formatUSCurrency(val) {
 }
 
 
-for()
+///for()
 
-var productsInCart = new Array(); //it should be array of products in cart ID's
+//var productsInCart = new Array(); //it should be array of products in cart ID's
 // .products are product listed in page
 $('#').each(function(){
    var product = $(this);
@@ -73,13 +73,16 @@ $('#').each(function(){
 
 });
 
-document.querySelector(#) = Var
+document.querySelector(#product) = Var
 
 varphoto1 = document.querySelector(id)
-
-var photo = "";
+var photo = "product";
 
 
 function addImagetoNextPage(){
-  photo = 
+  photo = Product(#)
+}
+
+if(button("Add to Cart") === clicked){
+   move("img") to href="cart.html"
 }
