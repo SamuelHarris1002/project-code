@@ -84,5 +84,5 @@ function addImagetoNextPage(){
 }
 
 if(button("Add to Cart") === clicked){
-   move("img") to href="cart.html"
+   move("img") = "cart.html";
 }
